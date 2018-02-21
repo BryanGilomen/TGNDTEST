@@ -1,0 +1,9 @@
+C:\source\test\TGNDTEST\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\source\test\TGNDTEST\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\source\test\TGNDTEST\TestApp\TestApp\bin\TestApp.dll.config
+C:\source\test\TGNDTEST\TestApp\TestApp\bin\TestApp.dll
+C:\source\test\TGNDTEST\TestApp\TestApp\bin\TestApp.pdb
+C:\source\test\TGNDTEST\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\source\test\TGNDTEST\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\source\test\TGNDTEST\TestApp\TestApp\obj\Debug\TestApp.dll
+C:\source\test\TGNDTEST\TestApp\TestApp\obj\Debug\TestApp.pdb
